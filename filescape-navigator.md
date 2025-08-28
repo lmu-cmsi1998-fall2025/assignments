@@ -3,7 +3,7 @@
 *_The phrase “software carpentry” was coined by Greg Wilson and Brent Gorda in 1998:
 https://software-carpentry.org/_
 
-# Episode 0903: Filescape Navigator
+# Episode 0905: Filescape Navigator
 For the first episode of your hit podcast/video channel, you will demonstrate your ability to zip around your computer’s file system solely using the command line. To provide you with some structure, we’ll ask everyone to embark on the same general journey. However, the particulars of past work you have done and how you organize your files will distinguish your individual video from those of the rest of the class
 
 ## Preproduction
