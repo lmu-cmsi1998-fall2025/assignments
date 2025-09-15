@@ -8,7 +8,7 @@ This repository hosts a public copy of the assignment write-ups for this course 
 
 * [Episode 0905](./filescape-navigator.md) Filescape navigator <kbd>extended to 0909</kbd>
 * [Episode 0919](./curator-personalis.md) Curator personalis
-* **Episode 1003** Edits, envs, and execution
+* [Episode 1003](./edits-envs-execution.md) Edits, envs, and execution
 * **Episode 1017** To [Git]hub and to hold
 * **Episode 1031** The non-accidental programmer
 * **Episode 1114** Dynamic duo
