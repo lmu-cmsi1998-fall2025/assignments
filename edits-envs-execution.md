@@ -50,7 +50,7 @@ _Note:_ We acknowledge that we may all have a favorite when it comes to a comman
 ### Scene Two: Bespoke Prompt
 1. Show that you can change `PS1` at will in order to customize your shell prompt
 2. As you type each prompt value, make sure to _explain them_ as you go! (i.e., say what each placeholder will do; indicate which parts are just custom text). Of course we all know that the prompt generator website helped, but the viewer doesn’t need to know that 🤫
-3. Show the viewer the value of your `LANG` environment variable to indicate whether your prompt can include emoji
+3. Show the viewer the value of your `LANG` or `LC_CTYPE` environment variable to indicate whether your prompt can include emoji
    * …and make sure to prove it by showing at least one prompt with such an emoji
    * if your system doesn’t allow direct typing of emoji, it’s OK to copy-paste it from a website or other source
 4. Do this three (3) times, once for each prompt that you invented
