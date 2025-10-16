@@ -24,6 +24,7 @@ Record yourself creating and initializing the repository from scratch. The proce
 
 Use a similar naming schema as before: `episode-1031-<your GitHub username>`
 
+* Make sure to first create the directory for your local repository and `cd` into that before following GitHub’s instructions
 * After creating and initializing the repository, reload the GitHub website for it in order to show that your work has been successfully updated their servers
 * Feel free to invoke `git status` whenever needed, in order to get an up-to-date, accurate understanding of your repository’s status
 
@@ -33,7 +34,7 @@ In this course, we seek to instill not only proficiency with the tools involved 
 #### General process for each commit
 Because we are seeking to mimic actual software development more accurately, please feel free to use any editor of your choice (probably not command line, heh) for writing your code. This episode shows where command-line editors play a role in the process
 1. Perform your edits off-camera using the editor of your choice
-2. Retain usage of a standalone command-line (i.e., _not_ an integrated command line/terminal in your editor, if it has one)
+2. Retain usage of a standalone command-line
 3. When you start recording, state the work that you have just finished and say that you are about to commit your work
 4. Use `git status` to show what files were changed
 5. Use `git diff` to show the changes that were made
