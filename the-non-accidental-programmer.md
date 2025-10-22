@@ -34,7 +34,7 @@ In this course, we seek to instill not only proficiency with the tools involved 
 #### General process for each commit
 Because we are seeking to mimic actual software development more accurately, please feel free to use any editor of your choice (probably not command line, heh) for writing your code. This episode shows where command-line editors play a role in the process
 1. Perform your edits off-camera using the editor of your choice
-2. Retain usage of a standalone command-line
+2. Make sure your code is in a working state after each milestone
 3. When you start recording, state the work that you have just finished and say that you are about to commit your work
 4. Use `git status` to show what files were changed
 5. Use `git diff` to show the changes that were made
