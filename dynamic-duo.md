@@ -40,7 +40,7 @@ You will then have a final file, _day_counter.py_, which houses the `day_counter
 
 The `day_counter` function itself should have this signature:
 
-    day_counter(year1: int, month1, int, day1: int, year2: int, month2: int, day2: int) -> int
+    day_counter(year1: int, month1: int, day1: int, year2: int, month2: int, day2: int) -> int
 
 The return value should be the number of days between the two dates
 
