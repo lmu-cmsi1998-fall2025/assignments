@@ -12,5 +12,5 @@ This repository hosts a public copy of the assignment write-ups for this course 
 * [Episode 1017](./to-github-and-to-hold.md) To [Git]hub and to hold
 * [Episode 1031](./the-non-accidental-programmer.md) The non-accidental programmer
 * [Episode 1114](./dynamic-duo.md) Dynamic duo
-* **Episode 1202** Welcome to the multiverse
+* [Episode 1202](./welcome-to-the-multiverse.md) Welcome to the multiverse
 * **Episode 1212** Use the force you should not
