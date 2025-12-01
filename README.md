@@ -13,4 +13,4 @@ This repository hosts a public copy of the assignment write-ups for this course 
 * [Episode 1031](./the-non-accidental-programmer.md) The non-accidental programmer
 * [Episode 1114](./dynamic-duo.md) Dynamic duo
 * [Episode 1202](./welcome-to-the-multiverse.md) Welcome to the multiverse
-* **Episode 1212** Use the force you should not
+* [Episode 1212](./use-the-force-you-should-not.md) Use the force you should not
